@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhanushshettigar
+- 👋 Hi, I’m dhanushshettigar
 - 👀 I’m interested in arduino programing and app development
 - 🌱 I’m currently learning flutter
 
